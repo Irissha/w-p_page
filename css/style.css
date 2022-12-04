@@ -236,8 +236,7 @@ ul {
   height: 2px;
   background-color: #fff;
 }
-.program-slider__item {
-}
+
 .program-slider__item-content {
   display: flex;
   justify-content: space-between;
@@ -300,8 +299,7 @@ ul {
   text-decoration: underline;
   cursor: pointer;
 }
-.program-slider__item-images {
-}
+
 .program-dots {
   list-style: none;
   position: absolute;
